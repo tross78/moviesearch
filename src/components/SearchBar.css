@@ -1,0 +1,19 @@
+.searchbar-container {
+    border-radius: 22px;
+}
+
+.searchbar-button {
+    border-bottom-right-radius: 22px;
+    border-top-right-radius: 22px;
+    background-color: white;
+    color: #01D277;
+}
+
+.searchbar-button::placeholder {
+    color: #01D277;
+    opacity: 1;
+}
+
+.searchbar-button::-webkit-input-placeholder {
+    color: #01D277;
+}

@@ -1,0 +1,10 @@
+
+.header {
+    background: url('../logo.svg') center center no-repeat;
+    min-height: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
